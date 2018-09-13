@@ -1,10 +1,13 @@
 _repo: The-Music-Master-of-Babylon_51379
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Krigstein
     gutenberg_agent_id: '45666'
     url: http://www.gutenberg.org/2009/agents/45666
+covers:
+- cover_type: archival
+  image_path: 51379-h/images/cover.jpg
 creator:
   author:
     agent_name: Pangborn, Edgar
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32078
     wikipedia: http://en.wikipedia.org/wiki/Edgar_Pangborn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51379#The-Music-Master-of-Babylon
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-03-06'
 gutenberg_type: Text
