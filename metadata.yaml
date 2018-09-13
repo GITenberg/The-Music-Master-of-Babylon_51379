@@ -1,0 +1,33 @@
+_repo: The-Music-Master-of-Babylon_51379
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Krigstein
+    gutenberg_agent_id: '45666'
+    url: http://www.gutenberg.org/2009/agents/45666
+creator:
+  author:
+    agent_name: Pangborn, Edgar
+    birthdate: 1909
+    deathdate: 1976
+    gutenberg_agent_id: '32078'
+    url: http://www.gutenberg.org/2009/agents/32078
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Pangborn
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51379'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Post-apocalyptic fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Music Master of Babylon
+url: http://www.gutenberg.org/ebooks/51379
